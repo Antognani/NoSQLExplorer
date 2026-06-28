@@ -1,0 +1,6 @@
+{
+  "name": "NoSQL Explorer",
+  "description": "Visualizador dinâmico e interativo sobre os tipos de bancos de dados NoSQL, comparações de benchmarking e laboratório de testes para o Portal de Disciplinas do IMD/UFRN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
