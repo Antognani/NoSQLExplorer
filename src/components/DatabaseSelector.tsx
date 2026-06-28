@@ -39,7 +39,7 @@ const STRUCTURAL_MOCKS: Record<string, string> = {
   widecolumn: `RowKey: "usr_antognani"
 ├── ColumnFamily: "personal"
 │   ├── name ➔ "Antonio Gabriel"
-│   └── email ➔ "antognani1@gmail.com"
+│   └── email ➔ "antognani67@gmail.com"
 ├── ColumnFamily: "academic"
 │   ├── institute ➔ "IMD"
 │   └── university ➔ "UFRN"

@@ -161,24 +161,24 @@ export const INITIAL_WIDE_COLUMNS: ColumnFamilyData[] = [
   {
     rowKey: 'usr_ufrn_01',
     families: {
-      personal: { name: 'Antonio Gabriel', email: 'antognani1@gmail.com', role: 'Estudante IMD' },
-      activity: { lastLogin: '2026-06-27 19:03:00', loginCount: '57' },
+      personal: { name: 'Antonio Gabriel', email: 'antognani67@gmail.com', role: 'Estudante IMD' },
+      activity: { lastLogin: '2026-06-27 19:03:00', loginCount: '67' },
       preferences: { theme: 'dark', notifications: 'true' }
     }
   },
   {
     rowKey: 'usr_ufrn_02',
     families: {
-      personal: { name: 'Prof. Pedro Silva', email: 'pedro.silva@imd.ufrn.br', role: 'Professor' },
-      activity: { lastLogin: '2026-06-26 15:42:10', loginCount: '243' },
+      personal: { name: 'Prof. Lobo Depósito', email: 'lobo.deposito@imd.ufrn.br', role: 'Professor' },
+      activity: { lastLogin: '2026-06-26 15:42:10', loginCount: '24' },
       preferences: { theme: 'light', notifications: 'false' }
     }
   },
   {
     rowKey: 'usr_ufrn_03',
     families: {
-      personal: { name: 'Mariana Costa', email: 'mariana.costa@ufrn.br', role: 'Coordenadora' },
-      activity: { lastLogin: '2026-06-27 10:15:30', loginCount: '19' },
+      personal: { name: 'Saori Kido', email: 'saori.kido@scat.br', role: 'Coordenadora' },
+      activity: { lastLogin: '2026-06-27 10:15:30', loginCount: '69' },
       preferences: { theme: 'system', notifications: 'true' }
     }
   }
@@ -189,7 +189,7 @@ export const INITIAL_GRAPH_NODES: GraphNode[] = [
   { id: '1', label: 'Antonio Gabriel (@antognani)', type: 'student' },
   { id: '2', label: 'IMD (Instituto Metrópole Digital)', type: 'department' },
   { id: '3', label: 'UFRN', type: 'department' },
-  { id: '4', label: 'Prof. Dennys (NoSQL)', type: 'professor' },
+  { id: '4', label: 'Prof. Lobo Depósito (NoSQL)', type: 'professor' },
   { id: '5', label: 'Banco de Dados II', type: 'course' },
   { id: '6', label: 'Desenvolvimento Web II', type: 'course' }
 ];
